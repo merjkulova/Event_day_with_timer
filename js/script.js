@@ -54,7 +54,7 @@ if (iconMenu) {
 }
 
 // timer JS
-let date = new Date('May 15 2024 15:32:00');
+let date = new Date('May 15 2025 15:32:00');
 
 function counts() {
 	let now = new Date();
